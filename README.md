@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharani Nimeshika</h1>
-<h3 align="center">a 🎓 Computing Student, 💻 Software Engineer, and QA tester.</h3>
+<h3 align="center">a 🎓 Computing Student, 💻 Software Engineer, and 🛠️ QA Tester.</h3>
 
 - 📫 How to reach me **tharaninimeshika17@gmail.com**
 
